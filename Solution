@@ -1,0 +1,17 @@
+Primitive data types in java are
+• Boolean: It takes the values true or false.
+• Char: It is used to store a single character.
+• Byte: In java it is a 8-bit signed two’s complement integer.
+• Short: These are the smallest type at only two bytes(16bits).
+• Long: This data type is used to store whole numbers from -9223372036854775808 to 9223372036854775807.
+• Float and double: float data type is a single-precision 32-bit IEEE754 floating point. It should never be used for precise values,, such as currency. Its default value is 0.0F.
+Operators in java can be classified into many types. Some of them are
+• Arithmetic operators
+• Unary operators
+• Assignment operators
+• Relational operators
+• Logical operators
+• Ternary operators
+• Bitwise operators
+• Shift operators
+• Instance of operator
